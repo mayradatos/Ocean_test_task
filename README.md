@@ -27,7 +27,7 @@ if you do not have it the following message will be shown:
 
 If you have it already install, when you execute the version command you will see something like that:
 
-![image-20220602195910250](R:\Users\Mayra.DESKTOP-D7338II\AppData\Roaming\Typora\typora-user-images\image-20220602195910250.png)
+![image-20220602195910250](media\java.png)
 
 ### Anaconda/Python:
 
@@ -95,7 +95,7 @@ To install jupyter open an Anaconda Prompt and type:
 python -m pip install findspark
 ```
 
-Just wait for the instalation and that is it.
+Just wait for the installation and that is it.
 
 
 
@@ -119,16 +119,16 @@ jupyter notebook
 
 once the jupyter notebook is launched, it will open the server interface which is available in `localhost:8888`
 
-![image-20220602204724093](R:\Users\Mayra.DESKTOP-D7338II\AppData\Roaming\Typora\typora-user-images\image-20220602204724093.png)
+![image-20220602204724093](media/jupyter.png)
 
-Search in the interface for the folder that contains the task `.ipynb` file and once you find it click on it to open. The code will apear in the screen in a readable format
+Search in the interface for the folder that contains the task `.ipynb` file and once you find it click on it to open. The code will appear in the screen in a readable format
 
-![image-20220602210535398](R:\Users\Mayra.DESKTOP-D7338II\AppData\Roaming\Typora\typora-user-images\image-20220602210535398.png)
+![image-20220602210535398](media/pythoncode.png)
 
 ##### Execute the code:
 
 There are multiple ways to execute a code in a jupyter notebook, for example:
 
 - Place your mouse over the cell that you want to execute, click on it and press  `ctrl+enter`
-- Place your mouse over the cell that you want to execute, click on it and in the tool bar click the run botton ![image-20220602210315642](R:\Users\Mayra.DESKTOP-D7338II\AppData\Roaming\Typora\typora-user-images\image-20220602210315642.png)
-- Click the tool bar botton ![image-20220602210435492](R:\Users\Mayra.DESKTOP-D7338II\AppData\Roaming\Typora\typora-user-images\image-20220602210435492.png) to restart the kernel and run all cells
+- Place your mouse over the cell that you want to execute, click on it and in the tool bar click the run button ![image-20220602210315642](media/run.png)
+- Click the tool bar button ![image-20220602210435492](media/runall.png) to restart the kernel and run all cells
